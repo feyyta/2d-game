@@ -4,6 +4,8 @@
 
 2D top-down game rendered with MiniLibX. The player collects every collectible on the map then reaches the exit; the move count is printed to the shell at every step. The map comes from a `.ber` file that is fully validated before the window opens.
 
+![so_long gameplay](screenshots/so_long.png)
+
 ## The `.ber` map format
 
 | Char | Meaning | Rule |

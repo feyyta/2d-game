@@ -4,6 +4,8 @@
 
 Jeu 2D en vue du dessus rendu avec la MiniLibX. Le joueur ramasse tous les collectibles de la map puis atteint la sortie ; le compteur de mouvements est affiché dans le shell à chaque pas. La map vient d'un fichier `.ber` entièrement validé avant l'ouverture de la fenêtre.
 
+![Gameplay de so_long](screenshots/so_long.png)
+
 ## Le format de map `.ber`
 
 | Char | Signification | Règle |
